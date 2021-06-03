@@ -1,6 +1,6 @@
 👋 Hi, I’m @ashisharbat
 👀 I’m interested in Data Engineering 
-🌱 I’m currently spreedsheets (excel, google sheets)/ tableu (data visualization )/ Python / R  
+🌱 I’m currently lerning spreedsheets (excel, google sheets)/ tableu (data visualization )/ Python / R  
 📫 How to reach me ashisharbat1997@gmail.com
 
 <!---
